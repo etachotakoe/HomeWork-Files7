@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Firm.HW_part_№2": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
